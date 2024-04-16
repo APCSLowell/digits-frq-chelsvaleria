@@ -16,7 +16,6 @@ public class Digits
 			n = n/10;
 		}
 	}
-	}
 
 	public boolean isStrictlyIncreasing()
 	{ /* to be implemented in part (b) */
